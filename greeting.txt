@@ -1,1 +1,5 @@
-GREETING
+<<<<<<< HEAD
+Good Evening Everyone !
+=======
+Good Morning
+>>>>>>> parent of 53d51c3... updated successfully
